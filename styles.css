@@ -1,0 +1,26 @@
+body{
+  font-family: "Times New Roman", Times, serif;
+  background-color: #E7EAEE;
+}
+
+h1{
+color: #507FA5;
+}
+
+p{
+
+}
+
+.center{
+  display: block;
+  margin-left:auto ;
+  margin-right: auto;
+}
+
+.circle-image{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
