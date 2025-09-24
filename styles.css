@@ -1,39 +1,51 @@
-body{
+body
+{
   font-family: "Times New Roman", Times, serif;
   background-color: #E7EAEE;
-
 }
 
-h1{
-color: #507FA5;
+h1
+{
+  color: #507FA5;
+  padding: 5px;
 }
-h2{
+
+h2
+{
   color: #485665;
 }
-li{
-color: #26403E;
+
+li
+{
+  color: #26403E;
 }
 
-.center{
+.center
+{
   display: block;
   margin-left:auto ;
   margin-right: auto;
 }
 
-.circle-image{
+.circle-image
+{
   width: 200px;
   height: 200px;
   border-radius: 50%;
   object-fit: cover;
 }
 
-#BackroundParagraph{
+#BackroundParagraph
+{
+  padding: 5px;
   font-weight: bold;
   font-size: large;
 }
 
-#FormDiv{
+#FormDiv
+{
+    border: 2px solid #333;
+    padding: 15px;
     background-color: #D6E1EB;
-
-  
+    color: #3943B7;
 }
