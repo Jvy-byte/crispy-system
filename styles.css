@@ -1,14 +1,17 @@
 body{
   font-family: "Times New Roman", Times, serif;
   background-color: #E7EAEE;
+
 }
 
 h1{
 color: #507FA5;
 }
-
-p{
-
+h2{
+  color: #485665;
+}
+li{
+color: #26403E;
 }
 
 .center{
@@ -24,3 +27,13 @@ p{
   object-fit: cover;
 }
 
+#BackroundParagraph{
+  font-weight: bold;
+  font-size: large;
+}
+
+#FormDiv{
+    background-color: #D6E1EB;
+
+  
+}
